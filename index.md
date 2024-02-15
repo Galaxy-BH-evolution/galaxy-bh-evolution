@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 ---
 ## Kavli galaxy black-hole evolution workshop 
-![cosmos](/_images/sPsQiC4eFn5bZxMVqs6dLW.jpg)
+![jwst_image](/_images/sPsQiC4eFn5bZxMVqs6dLW.jpg)
 
 ## Introduction
 We are pleased to announce the Kavli galaxy black-hole workshop, jointly hosted by Kavli IPMU and KIAA, on furthering our understanding of galaxy and black hole evolution. This will be held at Kavli-IPMU, located in the serene suburbs of Tokyo during the week of June 3rd to 7th, 2024. 
