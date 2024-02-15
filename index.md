@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 ---
 
-## Kavli galaxy black-hole evolution workshop 
+<!---## Kavli galaxy black-hole evolution workshop --->
 ![jwst_image](/_images/sPsQiC4eFn5bZxMVqs6dLW.jpg)
 
 ## Introduction
