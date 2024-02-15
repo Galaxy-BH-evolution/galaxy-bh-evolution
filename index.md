@@ -6,21 +6,30 @@ author_profile: false
 ![cosmos](/_images/cosmos_hsc_half.jpg)
 
 ## Introduction
-The Annual COSMOS team meeting will be held in Japan. While the workshop will be focused on the COSMOS-Web NIRCAM and MIRI imaging large program, additional key projects to be discussed include the ALMA large program CHAMPS and the JWST IFU followup of ALPINE/CRISTAL galaxies. We welcome both the COSMOS team and external participants interested in COSMOS.  
+We are pleased to announce the Kavli galaxy black-hole workshop, jointly hosted by Kavli IPMU and KIAA, on furthering our understanding of galaxy and black hole evolution. This will be held at Kavli-IPMU, located in the serene suburbs of Tokyo during the week of June 3rd to 7th, 2024. 
+
+
+The scientific focus is the resolved investigation of stars and gas within galaxies to understand the growth of bulges and their supermassive black holes across the high-z universe. We aim to exploit this new era with both JWST and ALMA achieving unparalleled resolution and depth.
+
+
+Furthermore,  as the quality of data increases, so does the complexity of the associated endeavors. With galaxies no longer being simple continuous structures and rather featuring a high degree of detectable substructures, we constantly require a revision of our understanding of galaxy morphology. With greater depths, we also gain access to early epochs of black hole evolution which needs to fit into the larger picture of galaxy evolution. 
+
+
+This workshop will bring together people with a goal of forming potentially new collaborative efforts. We discuss building the next generation of analysis tools and paving the way for future resolved studies of galaxies and their black holes at high-z.   
+
 ## Information
-* Time: July 8-12, 2024
+* Time: June 4-7, 2024
 * Location (Mon-Fri): Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8))
 * [Access](https://www.ipmu.jp/visitors/access-ipmu)
 * [Hotels](https://www.ipmu.jp/visitors/accommodation)
 * Food near campus: [map](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&usp=sharing)
 * [Astrophysicists' Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
-* Slack and Zoom: please find the info in the announcement email
-* Contact email: cosmos2024@ipmu.jp
+* Contact email: boris.kalita@ipmu.jp
 ## Participants
 * [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1689797346&single=true)
-* Registration deadline: May 31, 2024
-* Registration form: closed
-## Schedule (July 8 - 12)\\
+* Registration deadline: March 15, 2024
+* Registration form: Open
+## Schedule (June 4 - 7)\\
 * Monday:    COSMOS-Web JWST working groups
 * Tuesday:   ALMA/COSMOS working groups (CHAMPS, ALPINE/CRISTAL/JWST-IFU, A3COSMOS)
 * Weds-Fri:  Science meeting
@@ -34,13 +43,15 @@ The Annual COSMOS team meeting will be held in Japan. While the workshop will be
 * JWST-IFU/ALPINE/CRISTAL
 
 ## Guest speakers
-[Bert Chan](https://chakazul.github.io/) (Google DeepMind)\
+\
 
 
 ## Organizers
 SOC:\
 John Silverman (Kavli IPMU)\
-K. G. Lee (Kavli IPMU)
+Boris Kalita (Kavli IPMU)\
+Luis Ho (KIAA)\
+Si-Yue (KIAA)\
 
 LOC:\
 John Silverman (Kavli IPMU)\
