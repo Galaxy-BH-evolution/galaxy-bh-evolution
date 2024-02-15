@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 ---
-## Kavli galaxy black-hole evolution workshop 
+# Kavli galaxy black-hole evolution workshop 
 ![cosmos](/_images/cosmos_hsc_half.jpg)
 
 ## Introduction
