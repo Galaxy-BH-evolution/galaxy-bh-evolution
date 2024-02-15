@@ -19,7 +19,7 @@ Furthermore,  as the quality of data increases, so does the complexity of the as
 This workshop will bring together people with a goal of forming potentially new collaborative efforts. We discuss building the next generation of analysis tools and paving the way for future resolved studies of galaxies and their black holes at high-z.   
 
 ## Information
-* Time: June 4-7, 2024
+* Time: June 3-7, 2024
 * Location (Mon-Fri): Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8))
 * [Access](https://www.ipmu.jp/visitors/access-ipmu)
 * [Hotels](https://www.ipmu.jp/visitors/accommodation)
@@ -30,7 +30,7 @@ This workshop will bring together people with a goal of forming potentially new 
 * [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1689797346&single=true)
 * Registration deadline: March 15, 2024
 * Registration form: Open
-## Schedule (June 4 - 7)\
+## Schedule (June 3 - 7)\
 * Monday:    COSMOS-Web JWST working groups
 * Tuesday:   ALMA/COSMOS working groups (CHAMPS, ALPINE/CRISTAL/JWST-IFU, A3COSMOS)
 * Weds-Fri:  Science meeting
