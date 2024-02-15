@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Galaxy and Black-hole evolution"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Kavli IPMU, The University of Tokyo"# site tagline that appears below site title in masthead
 name                     : "KAVLI-IPMU"
 description              : "Workshop on the 4th-7th of June, 2024"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
