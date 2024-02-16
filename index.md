@@ -30,7 +30,7 @@ This workshop will bring together people with a goal of forming potentially new 
 * [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1689797346&single=true)
 * Registration deadline: March 15, 2024
 * Registration form: Open
-## Schedule (June 3 - 7)\
+## Schedule (June 3 - 7)
 * Monday:    COSMOS-Web JWST working groups
 * Tuesday:   ALMA/COSMOS working groups (CHAMPS, ALPINE/CRISTAL/JWST-IFU, A3COSMOS)
 * Weds-Fri:  Science meeting
