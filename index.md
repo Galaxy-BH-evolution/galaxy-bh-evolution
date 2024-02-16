@@ -42,11 +42,11 @@ SOC:\
 John Silverman (Kavli IPMU)\
 Boris Kalita (Kavli IPMU)\
 Luis Ho (KIAA)\
-Si-Yue (KIAA)\
+Si-Yue (Kavli IPMU)
 
 LOC:\
 John Silverman (Kavli IPMU)\
 Boris Kalita (Kavli IPMU)\
 Takumi Tanaka (Kavli IPMU)\
-Zhaixuan Liu (Kavli IPMU)\
+Zhaixuan Liu (Kavli IPMU)
 
