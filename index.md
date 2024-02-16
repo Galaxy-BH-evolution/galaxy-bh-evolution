@@ -29,7 +29,7 @@ This workshop will bring together people with a goal of forming potentially new 
 ## Participants
 * [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1689797346&single=true)
 * Registration deadline: March 15, 2024
-* Registration form: Open
+* Registration form: [Open](https://forms.gle/ks2as8sa2PKWdDU46)
 ## Schedule (June 3 - 7)
 * Monday:    KIAA+IPMU collaboration meeting; Creation of science working groups (WG)
 * Tuesday:   Stellar structure
@@ -50,5 +50,3 @@ Boris Kalita (Kavli IPMU)\
 Takumi Tanaka (Kavli IPMU)\
 Zhaixuan Liu (Kavli IPMU)\
 
-
-## Acknowledgement
