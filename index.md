@@ -37,11 +37,6 @@ This workshop will bring together people with a goal of forming potentially new 
 * Thursday:  Gas in and around galaxies and black holes
 * Friday:    Tools available and in development
 
-## Workspace
-* COSMOS-Web
-* CHAMPS
-* JWST-IFU/ALPINE/CRISTAL
-
 ## Organizers
 SOC:\
 John Silverman (Kavli IPMU)\
