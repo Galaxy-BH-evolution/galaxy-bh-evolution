@@ -27,7 +27,7 @@ This workshop will bring together people with a goal of forming potentially new 
 * [Astrophysicists' Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
 * Contact email: kavli.galaxy.bh@gmail.com
 ## Participants
-* [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vSqdoEG1PSn46ZwVOfS8hbyhR4T1HsRQkYGCPOzCrwEPcJb6x8avAJsAQuQHHFMMyn7sqCpmbwHfJ2D/pubhtml)
+* [List of participants](https://docs.google.com/spreadsheets/d/1k5NQGH4ikzyMVlnFsk2f8H7v1uaG0NFR8rQKWZ4BdNc/edit?usp=sharing)
 * Registration deadline: March 15, 2024
 * Registration form: [Open](https://forms.gle/ks2as8sa2PKWdDU46)
 ## Schedule (June 3 - 7)
