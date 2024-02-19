@@ -32,7 +32,7 @@ This workshop will bring together people with a goal of forming potentially new 
 * Registration form: [Open](https://forms.gle/ks2as8sa2PKWdDU46)
 ## Schedule (June 3 - 7)
 * Monday:    KIAA+IPMU collaboration meeting; Creation of science working groups (WG)
-* Tuesday:   Stellar structure
+* Tuesday:   Galaxy Structure
 * Wednesday: Black Holes
 * Thursday:  Gas in and around galaxies and black holes
 * Friday:    Tools available and in development
@@ -47,6 +47,7 @@ Si-Yue (Kavli IPMU)
 LOC:\
 John Silverman (Kavli IPMU)\
 Boris Kalita (Kavli IPMU)\
+Si-Yue (Kavli IPMU)\
 Takumi Tanaka (Kavli IPMU)\
-Zhaixuan Liu (Kavli IPMU)
+Zhaoxuan Liu (Kavli IPMU)
 
