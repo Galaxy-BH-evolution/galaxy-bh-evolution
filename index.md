@@ -23,7 +23,7 @@ This workshop will bring together people with a goal of forming potentially new 
 * Location (Mon-Fri): Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8))
 * [Access](https://www.ipmu.jp/visitors/access-ipmu)
 * [Hotels](https://www.ipmu.jp/visitors/accommodation)
-* Food near campus: [map](https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&usp=sharing)
+* Food near campus: [map]([https://www.google.com/maps/d/u/1/edit?mid=19vATYu2h1a6U74yt53fsnK7XeO5x6pY&usp=sharing](https://www.google.com/maps/d/u/1/edit?mid=1mVE_BZqdhGYfqo_OBi5JMfjoUD-xxSY&usp=sharing))
 * [Astrophysicists' Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
 * Contact email: kavli.galaxy.bh@gmail.com
 ## Participants
