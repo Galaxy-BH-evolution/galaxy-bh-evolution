@@ -31,7 +31,7 @@ This workshop will bring together people with a goal of forming potentially new 
 * Registration deadline: March 15, 2024
 * Registration form: [Open](https://forms.gle/ks2as8sa2PKWdDU46)
 ## Schedule (June 3 - 7)
-Format: First half: Science talks; Second half: Working groups\  
+Format: AM: Science talks; PM: Working groups 
 * Monday:    KIAA+IPMU collaboration meeting; Creation of science working groups (WG)
 * Tuesday:   Galaxy Structure
 * Wednesday: Black Holes
