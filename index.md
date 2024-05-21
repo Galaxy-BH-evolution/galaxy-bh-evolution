@@ -29,7 +29,7 @@ This workshop will bring together people with a goal of forming potentially new 
 ## Participants
 * [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRVN7amnYxoh_R9j2tDp4D-Uaf6xlt7L-6OBlzsC4rpoyBXzEtXxk6Nma_ilSPgqrcV-27ODyquec8R/pubhtml)
 * Registration deadline: March 15, 2024
-* Registration form: [Open](https://forms.gle/ks2as8sa2PKWdDU46)
+* Registration form: [Closed]
 ## Schedule (June 3 - 7)
 Format: AM: Science talks; PM: Working groups 
 * Monday:    KIAA+IPMU collaboration meeting; Creation of science working groups (WG)
